@@ -1,5 +1,5 @@
 # WW Icon
 
-> Game: 1.3
+> Game: 1.4
 
-> Patch: 1.3 Pre-download
+> Patch: 1.4 Beta
